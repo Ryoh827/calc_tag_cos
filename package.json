@@ -1,0 +1,15 @@
+{
+  "name": "calc_tag_cos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryoh827",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^11.8.0"
+  }
+}
